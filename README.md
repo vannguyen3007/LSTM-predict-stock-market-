@@ -141,7 +141,12 @@ def get_multi_year(provider, instrument, years, time_group):
       return ....
 ```
 
-## 2. Forecasting value via both Multivariate multi and Multivariate single forecast
+## 2. Forecasting value via both Multivariate and Univariate forecast ( Using LSTM models) 
+`from models.lstm import split, split_multilvariate`
+
+### 2.1. Multivariate LSTM Forecast Model
+
+
 
       
       
