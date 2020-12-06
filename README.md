@@ -18,7 +18,7 @@ That's all !
 
 Then you can run that script below, examples:
 
-`from setuptools import setup, find_packages
+from setuptools import setup, find_packages
 
 setup(
     name = 'pyfinancialdata', 
@@ -45,7 +45,7 @@ setup(
          'Operating System :: POSIX',
          'Programming Language :: Python :: 3 :: Only'
      ],
- )`    
+ )   
      
 Intraday financial data files for backtesting or analysis. Currently this includes minutes bars for:
 
