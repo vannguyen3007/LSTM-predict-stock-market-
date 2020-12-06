@@ -139,7 +139,11 @@ def get_multi_year(provider, instrument, years, time_group):
              )
            )  
       return ....
-      ```
+```
+
+## 2. Forecasting value via both Multivariate multi and Multivariate single forecast
+
+      
       
               
    
